@@ -153,6 +153,6 @@ Database integration (MongoDB / PostgreSQL)
 Deployment on cloud (AWS / Vercel)
 👨‍💻 Author
 
-Built by Maddy
+Built by Madhumitha_Jyothiprasad
 AI/ML & Full Stack Developer Project
 
